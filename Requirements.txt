@@ -1,0 +1,2 @@
+Requires aiml, sqlite, numpy, pandas, sklearn, matplotlib libraries to be install for the code to be running.
+You may have to change the file location in the code for the code to be working in your system.
