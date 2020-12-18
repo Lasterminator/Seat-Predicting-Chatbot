@@ -1,4 +1,5 @@
 # Chatbot-BITSAT-QUERIES
+First Version:
 About the chatbot:
 It can solve the basic bitsat queries such as branch cutoffs, branch and campus prediction based on the previous year cutoffs.
 How to use???
@@ -17,3 +18,5 @@ iv.) displays previous year info for given branch/campus.
 Complexity:O(m*n)..
        m---- number of campuses..
        n---- number of available branches.
+       
+Second Version:
